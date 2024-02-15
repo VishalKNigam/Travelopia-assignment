@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Travelopia</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="shortcut icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8x4dQRjLTLQD1P0joCfb0e-57JYMCQhpzvFWcURE0ZltSrtfOIM42YSvBhw&s" type="image/x-icon">
+</head>
+<body>
+  <div class="App">
+    <nav>
+      <!-- Title -->
+      <a href="#" class="title" onclick="handleClose()">
+        <span class="firstText">T</span>ravelopia
+      </a>
+
+      <!-- Hamburger Menu -->
+      <div class="menu" onclick="toggleMenu()">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+
+      <!-- All Links -->
+      <ul id="navLinks" class="hidden">
+        <li><a href="#" onclick="handleClose()">About</a></li>
+        <li><a href="#" onclick="handleClose()">Services</a></li>
+        <li><a href="#" onclick="handleClose()">Gallery</a></li>
+        <li><a href="#" onclick="handleClose()">Booking</a></li>
+        <li><a href="#" onclick="handleClose()">Contact</a></li>
+      </ul>
+    </nav>
+
+    <div class="hero">
+      <!-- Image -->
+      <img src="https://res.cloudinary.com/enchanting/q_70,f_auto,c_fill,w_1280,h_650,g_face/travelopia-web/2021/08/USA-Arches-National-Park-UT-e1640034251676.png" alt="">
+
+      <!-- Text -->
+      <div class="text">
+        <h1>EXPERIENTIAL TRAVEL<span class="lastWord"> BRANDS</span></h1>
+        <button id="openModalBtn">Click Here</button>
+      </div>
+
+      <!-- overlay -->
+      <div class="overlay"></div>
+
+    
+    </div>
+
+    <footer>
+      <p>All Rights Reserved. ©2024 Travelopia</p>
+    </footer>
+  </div>
+  
+  <script src="script.js"></script>
+</body>
+</html>
