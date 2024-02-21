@@ -29,5 +29,15 @@ To run this project locally, follow these steps:
 1. Clone the repository: `https://github.com/VishalKNigam/Travelopia-assignment`
 2. Open the `index.html` file in your preferred web browser.
 
+## Screenshots
+
+## **_Large Screen_**
+
+<img width="1075" alt="large-screen-screenshot" src="">
+
+## **_Small and medium Screens_**
+
+<img width="1075" alt="small-medium-screen-screenshot" src="">
+
 **Thank you for your support! We welcome your feedback.**
 
