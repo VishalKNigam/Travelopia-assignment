@@ -33,11 +33,11 @@ To run this project locally, follow these steps:
 
 ## **_Large Screen_**
 
-<img width="1075" alt="large-screen-screenshot" src="">
+<img width="1075" alt="large-screen-screenshot" src="https://github.com/VishalKNigam/Travelopia-assignment/blob/main/images/large.png?raw=true">
 
 ## **_Small and medium Screens_**
 
-<img width="1075" alt="small-medium-screen-screenshot" src="">
+<img width="1075" alt="small-medium-screen-screenshot" src="https://github.com/VishalKNigam/Travelopia-assignment/blob/main/images/small-medium.png?raw=true">
 
 **Thank you for your support! We welcome your feedback.**
 
